@@ -30,3 +30,11 @@
 :alarm_clock: ساعت کاری: همه روزه
 ### تماس:
 :telephone_receiver: 09149912029
+
+![کابل‌کشی حرفه‌ای](https://raw.githubusercontent.com/Radiasi-Tabriz/Radiasi-Tabriz.github.io/main/IMG_20250130_102248.jpg)
+
+![نصب تجهیزات مخابراتی](https://raw.githubusercontent.com/Radiasi-Tabriz/Radiasi-Tabriz.github.io/main/IMG_20250130_102259.jpg)
+
+![تعمیر خط تلفن](https://raw.githubusercontent.com/Radiasi-Tabriz/Radiasi-Tabriz.github.io/main/IMG_20250424_130346.jpg)
+
+![راه‌اندازی اینترنت](https://raw.githubusercontent.com/Radiasi-Tabriz/Radiasi-Tabriz.github.io/main/IMG_20250427_100142.jpg)
